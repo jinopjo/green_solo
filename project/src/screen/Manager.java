@@ -275,6 +275,7 @@ public class Manager extends Employee {
 		l_time.setLocation(180, 60);
 		tf_time.setSize(120, 20);
 		tf_time.setLocation(230, 60);
+		tf_time.setText("00:00-00:00");
 		
 		l_id.setSize(40, 20);
 		l_id.setLocation(40, 100);
